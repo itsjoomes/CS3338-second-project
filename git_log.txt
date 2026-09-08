@@ -1,0 +1,45 @@
+commit 4ddb032e5a9094fa798ded6b1b51e7933196ede7
+Merge: 4f5a3ca 6c8e51d
+Author: itsjoomes <encryptic0822@gmail.com>
+Date:   Tue Sep 8 15:27:10 2026 -0700
+
+    Fixed merge conflicts in index.html
+
+commit 6c8e51d3078b2f16729b263c29f2a48ec28774f5
+Author: itsjoomes <encryptic0822@gmail.com>
+Date:   Tue Sep 8 15:23:54 2026 -0700
+
+    Added favorite game
+
+commit 4f5a3ca6d9ebb6e09c80735392834d9322ed351a
+Author: itsjoomes <encryptic0822@gmail.com>
+Date:   Tue Sep 8 15:20:37 2026 -0700
+
+    Added favorite activity
+
+commit 1026b083d01302d2a5674755c8f965e34696181d
+Author: itsjoomes <encryptic0822@gmail.com>
+Date:   Tue Sep 8 15:16:02 2026 -0700
+
+    Added README
+
+commit b95617c0747936a5a2be3396a282e7a63fcf96ac
+Merge: 1d2bfc0 7be9077
+Author: itsjoomes <encryptic0822@gmail.com>
+Date:   Tue Sep 8 15:10:39 2026 -0700
+
+    Merge pull request #1 from itsjoomes/info-fill
+    
+    Merge info-fill into main
+
+commit 7be907708ee193c8750e60ecebc2b1f35755fa5c
+Author: itsjoomes <encryptic0822@gmail.com>
+Date:   Fri Sep 4 13:13:21 2026 -0700
+
+    Filled in blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
